@@ -1,2 +1,2 @@
-# python-practice-
+# python-practice
 Python Practice codes 
